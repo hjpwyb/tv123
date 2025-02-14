@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY桐桐.jar",
+  "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY桐桐.jar",
   "spider": "http://www.tvboxx.top/tv/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
   "wallpaper": "https://ent.cttv.vip/tp-api/api.php",
   "lives": [
