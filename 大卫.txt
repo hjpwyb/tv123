@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://www.100km.top/api/img.php",
-    "spider": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/大卫.jar",
+    "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/大卫.jar",
     "lives": [
         {
             "name": "FMM",
