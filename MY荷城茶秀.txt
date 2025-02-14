@@ -1,6 +1,6 @@
 {
 
-"spider":"https://ghp.ci/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY荷城茶秀.jar",
+"spider":"https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY荷城茶秀.jar",
 
 //"spider":"http://rihou.cc:88/hccx/",
 
