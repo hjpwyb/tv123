@@ -1,5 +1,5 @@
 {
-    "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware磁力.jar",
+    "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware磁力.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -85,14 +85,14 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XPath/音范丝.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XPath/音范丝.json"
         },
         {
             "key": "磁力熊",
             "name": "磁力熊｜磁力",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/JS/磁力熊.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/JS/磁力熊.js"
         },
         {
             "key": "美剧迷",
@@ -120,7 +120,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XYQHiker/电影港.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XYQHiker/电影港.json"
         },
         {
             "key": "布谷TV",
@@ -130,7 +130,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XBPQ/布谷TV.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XBPQ/布谷TV.json"
         },
         {
             "key": "BT天堂",
@@ -140,7 +140,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XYQHiker/BT天堂.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XYQHiker/BT天堂.json"
         },
         {
             "key": "Mp4电影",
@@ -159,7 +159,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XYQHiker/哔嘀影视.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/磁力/XYQHiker/哔嘀影视.json"
         },
         {
             "key": "酷吧电影",
@@ -284,7 +284,7 @@
             "name": "肥羊",
             "type": 3,
             "api": "csp_Ysptp",
-            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
