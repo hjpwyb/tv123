@@ -1,5 +1,5 @@
 {
-  "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar",
+  "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/运输车{跑马灯}.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
