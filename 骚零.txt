@@ -1,11 +1,11 @@
 {
     "wallpaper": "https://www.100km.top/api/img.php",
-    "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/骚零.jar",
+    "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/骚零.jar",
     "lives": [
         {
             "name": "FMM",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+            "url": "https://kenyu.ggff.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
             "playerType": 1,
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
