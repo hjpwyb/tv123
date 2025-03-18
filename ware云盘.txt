@@ -1,5 +1,5 @@
 {
-    "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware云盘.jar",
+    "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware云盘.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -81,7 +81,7 @@
             "indexs": 0,
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "share": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/JS/alishare.txt"
+                "share": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/JS/alishare.txt"
             },
             "style": {
                 "type": "list"
@@ -91,8 +91,8 @@
             "key": "短剧合集",
             "name": "短剧｜合集",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/js/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/js/短剧合集.js",
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/js/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/js/短剧合集.js",
             "style": {
                 "type": "list"
             }
@@ -507,7 +507,7 @@
             "name": "肥羊",
             "type": 3,
             "api": "csp_Ysptp",
-            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
