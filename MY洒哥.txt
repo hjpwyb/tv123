@@ -1,5 +1,5 @@
 {
-  "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY洒哥.jar",
+  "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/MY洒哥.jar",
   "wallpaper": "https://api.nguaduot.cn/netbian/random",
   "sites": [
     {
