@@ -1,5 +1,5 @@
 {
-    "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware直播.jar",
+    "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware直播.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -84,8 +84,8 @@
             "key": "哔哩直播",
             "name": "哔哩｜直播",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/js/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/js/哔哩直播.js",
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/js/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/直播/js/哔哩直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -168,7 +168,7 @@
             "name": "肥羊",
             "type": 3,
             "api": "csp_Ysptp",
-            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
