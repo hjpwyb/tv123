@@ -1,5 +1,5 @@
 {
-    "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware影视.jar",
+    "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware影视.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -144,43 +144,43 @@
             "key": "腾讯弹幕",
             "name": "腾讯｜弹幕",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/腾讯弹幕.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/腾讯弹幕.js"
         },
         {
             "key": "优酷弹幕",
             "name": "优酷｜弹幕",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/优酷弹幕.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/优酷弹幕.js"
         },
         {
             "key": "悠悠弹幕",
             "name": "悠悠｜弹幕",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/悠悠弹幕.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/悠悠弹幕.js"
         },
         {
             "key": "小熊弹幕",
             "name": "小熊｜弹幕",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/小熊弹幕.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/小熊弹幕.js"
         },
         {
             "key": "巨人弹幕",
             "name": "巨人｜弹幕",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/巨人弹幕.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/巨人弹幕.js"
         },
         {
             "key": "小虎斑弹幕",
             "name": "小虎斑｜弹幕",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/小虎斑弹幕.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/小虎斑弹幕.js"
         },
         {
             "key": "三六零弹幕",
@@ -247,8 +247,8 @@
             "key": "天堂短剧",
             "name": "天堂｜短剧",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/天堂短剧.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/天堂短剧.js"
         },
         {
             "key": "爱你短剧",
@@ -258,7 +258,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/爱你短剧.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/爱你短剧.json"
         },
         {
             "key": "河马短剧",
@@ -268,7 +268,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/河马短剧.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/河马短剧.json"
         },
         {
             "key": "短剧屋",
@@ -278,7 +278,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/短剧屋.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/短剧屋.json"
         },
         {
             "key": "韩小圈",
@@ -396,8 +396,8 @@
             "key": "大米星球",
             "name": "大米｜APP",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/APPV2.js?type=url&params=https://damifan.wiki"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/APPV2.js?type=url&params=https://damifan.wiki"
         },
         {
             "key": "西瓜视频",
@@ -417,10 +417,10 @@
             "key": "采集之王",
             "name": "采集｜合集",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/采集之王.js?type=url&params=.https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JSON/采集静态.json$1$1"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/采集之王.js?type=url&params=.https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JSON/采集静态.json$1$1"
         },
         {
             "key": "厂长资源",
@@ -637,7 +637,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XBPQ/新视觉.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XBPQ/新视觉.json"
         },
         {
             "key": "电影牛",
@@ -647,98 +647,98 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/电影牛.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/电影牛.json"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇艺｜视频",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/爱奇艺.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/爱奇艺.js"
         },
         {
             "key": "三六零",
             "name": "三六零｜视频",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/三六零.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/三六零.js"
         },
         {
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/剧圈圈.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/剧圈圈.js"
         },
         {
             "key": "追剧迷",
             "name": "追剧迷｜影视",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/追剧迷.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/追剧迷.js"
         },
         {
             "key": "看了么",
             "name": "看了么｜影视",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/看了么.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/看了么.js"
         },
         {
             "key": "茶杯狐",
             "name": "茶杯狐｜影视",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/茶杯狐.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/茶杯狐.js"
         },
         {
             "key": "魔力高清",
             "name": "魔力｜影视",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/魔力高清.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/魔力高清.js"
         },
         {
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/腾讯视频.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷｜视频",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/优酷视频.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/芒果视频.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/芒果视频.js"
         },
         {
             "key": "搜狗视频",
             "name": "搜狗｜视频",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/搜狗视频.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/搜狗视频.js"
         },
         {
             "key": "哔哩视频",
             "name": "哔哩｜视频",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/哔哩视频.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/哔哩视频.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/碟调影视.js"
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/JS/碟调影视.js"
         },
         {
             "key": "奇趣影视",
@@ -748,7 +748,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/奇趣影视.json"
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/XYQHiker/奇趣影视.json"
         },
         {
             "key": "1905",
@@ -1284,7 +1284,7 @@
             "name": "肥羊",
             "type": 3,
             "api": "csp_Ysptp",
-            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
