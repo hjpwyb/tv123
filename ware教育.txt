@@ -1,13 +1,13 @@
 {
-    "spider": "https://yubou.us.kg/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware教育.jar",
+    "spider": "https://kenyu.ggff.net/https://raw.githubusercontent.com/vbskycn/tvbox/main/jar/ware教育.jar",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
             "key": "兔小贝",
             "name": "兔小贝｜首页",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/兔小贝.js",
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -30,8 +30,8 @@
             "key": "贝乐虎",
             "name": "贝乐虎｜儿童",
             "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/drpy2.min.js",
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/贝乐虎.js",
+            "api": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/drpy2.min.js",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/js/贝乐虎.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -47,7 +47,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童拼音.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童拼音.json"
             },
             "style": {
                 "type": "rect",
@@ -64,7 +64,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童识字.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童识字.json"
             },
             "style": {
                 "type": "rect",
@@ -81,7 +81,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童英语.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童英语.json"
             },
             "style": {
                 "type": "rect",
@@ -98,7 +98,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童硬笔.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童硬笔.json"
             },
             "style": {
                 "type": "rect",
@@ -115,7 +115,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童思维.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童思维.json"
             },
             "style": {
                 "type": "rect",
@@ -132,7 +132,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童口才.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童口才.json"
             },
             "style": {
                 "type": "rect",
@@ -149,7 +149,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童编程.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童编程.json"
             },
             "style": {
                 "type": "rect",
@@ -166,7 +166,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童武术.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/儿童武术.json"
             },
             "style": {
                 "type": "rect",
@@ -183,7 +183,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/少儿教育.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/少儿教育.json"
             },
             "style": {
                 "type": "rect",
@@ -200,7 +200,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小学课堂.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小学课堂.json"
             },
             "style": {
                 "type": "rect",
@@ -217,7 +217,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/初中课堂.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/初中课堂.json"
             },
             "style": {
                 "type": "rect",
@@ -234,7 +234,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/高中课堂.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/高中课堂.json"
             },
             "style": {
                 "type": "rect",
@@ -251,7 +251,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/外语课堂.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/外语课堂.json"
             },
             "style": {
                 "type": "rect",
@@ -268,7 +268,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔百科.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔百科.json"
             },
             "style": {
                 "type": "rect",
@@ -285,7 +285,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔科学.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔科学.json"
             },
             "style": {
                 "type": "rect",
@@ -302,7 +302,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔地理.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔地理.json"
             },
             "style": {
                 "type": "rect",
@@ -319,7 +319,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔国学.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔国学.json"
             },
             "style": {
                 "type": "rect",
@@ -336,7 +336,7 @@
             "filterable": 1,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔人文.json"
+                "json": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/教育/json/小灯塔人文.json"
             },
             "style": {
                 "type": "rect",
@@ -420,7 +420,7 @@
             "name": "肥羊",
             "type": 3,
             "api": "csp_Ysptp",
-            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "ext": "https://kenyu.ggff.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
