@@ -12,7 +12,7 @@
     {
       "name": "TV",
       "type": 0,
-      "url": "https://yubou.us.kg/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "url": "https://kenyu.ggff.net/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
       "playerType": 1
     },
     {
